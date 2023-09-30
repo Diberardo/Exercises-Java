@@ -1,4 +1,4 @@
-# Exercícios de Programação em Python
+# Exercícios de Programação em Java
 
 Aqui estão alguns exercícios de programação em Python para praticar suas habilidades de codificação.
 
