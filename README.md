@@ -11,7 +11,7 @@ Os exercícios aqui fornecidos cobrem uma variedade de tópicos, desde conceitos
 1. Clone este repositório para sua máquina local:
 
    ```shell
-   git clone https://github.com/seu-usuario/exercicios-java.git
+   git clone git@github.com:Diberardo/Exercises-Java.git
 Navegue para a pasta do exercício que deseja resolver.
 
 Abra o código-fonte em sua IDE Java favorita.
